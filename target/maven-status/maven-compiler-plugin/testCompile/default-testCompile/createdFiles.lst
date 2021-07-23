@@ -1,0 +1,6 @@
+com\videogamedb\videogameinfo\SerenityCRUDTestWithSteps.class
+com\videogamedb\cucumber\CucumberRunner.class
+com\videogamedb\testbase\TestBase.class
+com\videogamedb\cucumber\cucumber\steps\MyStepdefs.class
+com\videogamedb\videogameinfo\FirstSerenityTest.class
+com\videogamedb\videogameinfo\SerenityCRUDTest.class
